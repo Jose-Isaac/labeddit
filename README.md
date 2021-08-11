@@ -93,7 +93,7 @@ Para executar esse projeto em sua máquila local é necessário que o node js es
 <h4>1º | Faça o clone do repo:</h4>
 
 <code>
-    git clone https://github.com/future4code/Jose-Isaac-Campos.git
+    git clone https://github.com/Jose-Isaac/labeddit.git
 </code>
 
 <br>
@@ -102,7 +102,7 @@ Para executar esse projeto em sua máquila local é necessário que o node js es
 <h4>2º | Navegue até a pasta do projeto:</h4>
 
 <code>
-    cd ./Jose-Isaac-Campos/semana12/labeddit
+    cd ./labeddit
 </code>
 
 <br>
